@@ -1,16 +1,17 @@
-# DevOps--Projects![Blue Lilac Gen Z Inspired Employment LinkedIn Profile Picture](https://user-images.githubusercontent.com/101305865/181067563-2a218e5b-0505-4cf7-bc71-bfbea4e7a6a0.png)
 
-![download (1)](https://user-images.githubusercontent.com/101305865/181058062-e97adb6b-9bb8-4d57-b5e6-ab87418b38a5.png)
-![1652698070222](https://user-images.githubusercontent.com/101305865/181067700-2ad1e161-c77a-47e9-9587-2eb156a97c25.jpg)
-![EC2  Machine Created](https://user-images.githubusercontent.com/101305865/181080516-672b28be-2e56-4ea0-83cc-18f0a6067d65.png)
-![Screenshot 2022-07-22 155955](https://user-images.githubusercontent.com/101305865/181080520-dddb1ae1-6dfe-4d53-846a-fe29d985edd2.png)
-![Screenshot 2022-07-22 160506](https://user-images.githubusercontent.com/101305865/181080522-8e9e6ec5-6ba5-488a-9902-44e41f283a8b.png)
-![Screenshot 2022-07-22 160735](https://user-images.githubusercontent.com/101305865/181080525-cd5d1834-923b-41f9-8c55-e7cb8c2f0aea.png)
-![Screenshot 2022-07-22 160941](https://user-images.githubusercontent.com/101305865/181080529-20d73a6d-8ad7-48d9-a430-2e6e0aa4bda6.png)
-![PROJECT--1](https://user-images.githubusercontent.com/101305865/181080532-297e663a-a4fc-46b8-9c67-1739d55040d8.png)
-![Screenshot 2022-07-22 155955](https://user-images.githubusercontent.com/101305865/181080533-ed3a259a-d756-45b4-9ec6-4670123f84e0.png)
-![Screenshot 2022-07-22 160506](https://user-images.githubusercontent.com/101305865/181080534-bf635cdd-7c9c-4d63-9cfc-f1fbfea7450f.png)
-![Screenshot 2022-07-22 160735](https://user-images.githubusercontent.com/101305865/181080538-aae5dc70-1984-4cb1-97e7-e56f7e26bf3f.png)
-![Screenshot 2022-07-22 160941](https://user-images.githubusercontent.com/101305865/181080539-77b386db-5d1d-4a9d-a60d-8d8c8b5540e6.png)
-![PROJECT--1](https://user-images.githubusercontent.com/101305865/181080541-c4661e07-412a-4e46-afd7-3df80bee1c81.png)
-![EC2  Machine Created](https://user-images.githubusercontent.com/101305865/181080544-c65c65aa-835c-4b3d-ba6e-86fb0d9b8dc6.png)
+# DevOps-Projects  
+In this repository I will upload my projects on DevOps and also Integration of DevOps technology with other tools .
+ 
+Project 1 -->Migration of On-premise static web Application into AWS
+Cloud Platform 
+
+Project 2 -->Deploying Java Web Application on Multi Node Architecture
+with HA in AWS Cloud   
+
+Project 3 -->CI/CD pipeline to deploy the artifacts into Tomcat Server 
+
+Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
+
+
+
+## Project-1 : Migration of On-premise  static web Application into AWS Cloud Platform .
