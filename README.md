@@ -31,7 +31,6 @@ Node Architecture with HA in AWS Cloud .
 ![Network Mapping-2](https://user-images.githubusercontent.com/101305865/181221418-b67601e7-ae15-4c79-98ae-643818491e97.png)
 ![Security groups , Listeners and routing-3](https:![Target Group - 15](https://user-images.githubusercontent.com/101305865/181221498-0fb5d548-a384-4026-9b7a-30a2dcf095b2.png)
 //user-images.gith
-https://user-images.githubusercontent.com/101305865/181221597-7cc039c5-a0f5-40eb-8e4c-19c605a115cc.mp4
-
 ubusercontent.com/101305865/181221473-9c1c3ae2-9ae4-44c6-8c9c-25ab4ce61b4b.png)
 ![16](https://user-images.githubusercontent.com/101305865/181221574-c3ddf442-b721-4994-a83b-632088d0937d.png)
+https://user-images.githubusercontent.com/101305865/181221597-7cc039c5-a0f5-40eb-8e4c-19c605a115cc.mp4
