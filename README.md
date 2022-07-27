@@ -33,4 +33,8 @@ Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
 ---------------
 ![server -1 with HA --12](https://user-images.githubusercontent.com/101305865/181226741-bb8fd14f-68c1-4b68-ab9c-b36664c9232b.png)
 -------------- 
-![server-2 -13](https://user-images.githubusercontent.com/101305865/181226920-b0321c58-76f4-41d4-9319-c79b85b3c392.png)
+![server-2 -13](https://user-images.githubusercontent.com/101305865/181226920-b0321c58-76f4-41d4-9319-c79b85b3c392.png) 
+ -------------
+![lb -14](https://user-images.githubusercontent.com/101305865/181228095-9ce15fed-2057-49cd-a248-5a54f60cfdbb.png)
+--------------- 
+
