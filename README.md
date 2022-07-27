@@ -21,3 +21,5 @@ Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
 ![Screenshot 2022-07-22 160506](https://user-images.githubusercontent.com/101305865/181105397-5e952c52-90c2-4130-956d-c9fbe44f5e1c.png)
 ![Screenshot 2022-07-22 160735](https://user-images.githubusercontent.com/101305865/181105416-324cbe02-343e-4650-bf24-1d2c340e0d57.png)
 ![Screenshot 2022-07-22 160941](https://user-images.githubusercontent.com/101305865/181105440-60435a8d-fb32-46a8-965d-259924bdd26e.png)
+## Project 2 : Deploying Java Web Application on Multi Node Architecture with HA in AWS Cloud . 
+![11 30 AM 30% ](https://user-images.githubusercontent.com/101305865/181203534-c16cb439-08cd-4def-8f4c-17d382516b11.png)
