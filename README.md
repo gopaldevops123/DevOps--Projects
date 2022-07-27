@@ -36,5 +36,16 @@ Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
 ![server-2 -13](https://user-images.githubusercontent.com/101305865/181226920-b0321c58-76f4-41d4-9319-c79b85b3c392.png) 
  -------------
 ![lb -14](https://user-images.githubusercontent.com/101305865/181228095-9ce15fed-2057-49cd-a248-5a54f60cfdbb.png)
---------------- 
+-------------- 
+![create load balancer-1](https://user-images.githubusercontent.com/101305865/181228284-b6e4f183-4846-4956-bf31-18aab3d1be82.png)
+-------------
+![Network Mapping-2](https://user-images.githubusercontent.com/101305865/181228570-3a7e20e7-b28a-40ed-8de1-86a151cfb2c0.png)
+ -----------
+![Security groups , Listeners and routing-3](https://user-images.githubusercontent.com/101305865/181228667-68674999-8bac-4171-8469-aeb573fc05b7.png)
+------------ 
+![Target Gr![16](https://user-images.githubusercontent.com/101305865/181229500-86f0c415-1d08-4e8b-98fb-536808665159.png) 
+------------
+https://user-images.githubusercontent.com/101305865/181229687-3247d3a3-eb51-4157-87e1-0ca6828653fa.mp4
+
+
 
