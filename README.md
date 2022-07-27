@@ -11,7 +11,7 @@ with HA in AWS Cloud
 Project 3 -->CI/CD pipeline to deploy the artifacts into Tomcat Server 
 
 Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
------------------------------------------------------------------------------------------------------
+ 
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 ## Project-1 : Migration of On-premise  static web Application into AWS Cloud Platform . 
