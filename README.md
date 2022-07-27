@@ -42,8 +42,10 @@ Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
 ![Network Mapping-2](https://user-images.githubusercontent.com/101305865/181228570-3a7e20e7-b28a-40ed-8de1-86a151cfb2c0.png)
  -----------
 ![Security groups , Listeners and routing-3](https://user-images.githubusercontent.com/101305865/181228667-68674999-8bac-4171-8469-aeb573fc05b7.png)
------------- 
-![Target Gr![16](https://user-images.githubusercontent.com/101305865/181229500-86f0c415-1d08-4e8b-98fb-536808665159.png) 
+------------
+![Target Group - 15](https://user-images.githubusercontent.com/101305865/181230141-fc160e93-e8c8-4908-99c1-1827b75328f5.png)
+------------
+![16](https://user-images.githubusercontent.com/101305865/181230404-639c6a70-3574-4bc6-8237-9e601c5dff6b.png)
 ------------
 https://user-images.githubusercontent.com/101305865/181229687-3247d3a3-eb51-4157-87e1-0ca6828653fa.mp4
 
