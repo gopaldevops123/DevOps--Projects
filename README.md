@@ -54,5 +54,39 @@ Project 4 -->CI/CD pipeline to deploy the artifacts into Docker container.
 ------------
 https://user-images.githubusercontent.com/101305865/181229687-3247d3a3-eb51-4157-87e1-0ca6828653fa.mp4
 
+--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- --------------
 
-
+ ## Project 3 : CI/CD pipeline to deploy the artifacts into Tomcat Server . 
+![0](https://user-images.githubusercontent.com/101305865/181917140-18e12b5a-08aa-4008-b79e-d5c6b7f1cb05.png)
+---------------------
+![1](https://user-images.githubusercontent.com/101305865/181917200-216953f7-bdb3-4c34-bdf2-1f885c607521.png)
+ --------------------------------------------
+ ![2](https://user-images.githubusercontent.com/101305865/181917210-c20530f8-d1fa-4261-b5f6-1e2cec4a8098.png)
+--------------------------------------------
+ ![3](https://user-images.githubusercontent.com/101305865/181917234-a75e1ef8-cfa5-4245-a00a-7916952f9443.png)
+---------------------------------
+![4](https://user-images.githubusercontent.com/101305865/181917242-d4287d33-641d-428b-881a-2b2be0f112e1.png)
+------------------------
+  ![5](https://user-images.githubusercontent.com/101305865/181917289-15177b39-f24b-44ab-968f-2292b2ad73e1.png)
+------------------------------------
+![6](https://user-images.githubusercontent.com/101305865/181917303-a6699dab-2d2c-40d0-9d7a-2960af602ae1.png)
+-----------------------  
+ ![10](https://user-images.githubusercontent.com/101305865/181917322-f04c7c9b-76ff-4610-8f95-9b634b2b2da8.png)
+---------------
+ ![11](https://user-images.githubusercontent.com/101305865/181917340-dbae15e4-fc58-403d-a7fb-5c48ae60990c.png)
+-------------------
+![12](https://user-images.githubusercontent.com/101305865/181917362-8a7b315e-bf09-43e1-abf3-1148ebb38edc.png)
+ -------------------------
+ ![13](https://user-images.githubusercontent.com/101305865/181917385-088bc60f-2a28-487d-aecc-0e96409dadd3.png)
+------------------------
+ ![14](https://user-images.githubusercontent.com/101305865/181917397-12db4478-70cd-4da9-ab55-084f083ed379.png)
+ -----------------
+ ![15](https://user-images.githubusercontent.com/101305865/181917416-3a8b9074-a0d4-49e0-8d57-c76ad745e4a6.png)
+--------------
+    ![16](https://user-images.githubusercontent.com/101305865/181917438-6f64f012-cce2-4399-8765-07da26386c6e.png)
+--------------
+ ![21](https://user-images.githubusercontent.com/101305865/181917448-f99e7ac8-53f7-46bb-b6c8-c5401642c34c.png)
+    
+    
